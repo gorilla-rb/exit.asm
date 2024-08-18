@@ -1,4 +1,4 @@
-# assembly with nasm
+# assembly with nasm, let ebx (return code) be a junk value
 section .text
   global _start
     _start:
